@@ -1,9 +1,9 @@
 # -*- coding: UTF-8 -*-
 # ToolName   : MaxPhisher
-# Author     : KasRoudra
+# Author     : Sanjay
 # Version    : 1.1
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
+# Copyright  : sanjay (2021-2022)
 # Github     : https://github.com/KasRoudra
 # Contact    : https://m.me/KasRoudra
 # Description: MaxPhisher is a phishing tool in python
@@ -19,7 +19,7 @@
 """
 MIT License
 
-Copyright (c) 2022 KasRoudra
+Copyright (c) 2022 sanjay
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
